@@ -1,0 +1,7 @@
+C:\Users\Elisei\source\repos\ConsolCulcul\ConsolCulcul\bin\Debug\ConsolCulcul.exe.config
+C:\Users\Elisei\source\repos\ConsolCulcul\ConsolCulcul\bin\Debug\ConsolCulcul.exe
+C:\Users\Elisei\source\repos\ConsolCulcul\ConsolCulcul\bin\Debug\ConsolCulcul.pdb
+C:\Users\Elisei\source\repos\ConsolCulcul\ConsolCulcul\obj\Debug\ConsolCulcul.csproj.AssemblyReference.cache
+C:\Users\Elisei\source\repos\ConsolCulcul\ConsolCulcul\obj\Debug\ConsolCulcul.csproj.CoreCompileInputs.cache
+C:\Users\Elisei\source\repos\ConsolCulcul\ConsolCulcul\obj\Debug\ConsolCulcul.exe
+C:\Users\Elisei\source\repos\ConsolCulcul\ConsolCulcul\obj\Debug\ConsolCulcul.pdb
